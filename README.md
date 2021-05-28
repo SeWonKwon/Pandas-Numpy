@@ -1,8 +1,13 @@
 # Pandas
 
+Basic_Pandas : including almost everything about Pandas organized by Sewon
+
+출처 : 책: [파이썬 머신러닝 판다스 데이터 분석](http://www.yes24.com/Product/Goods/74258258)
+
+
 # Pandas_Practice
 
-꾸준히 하나씩 풀자!!
+꾸준히 하나씩 풀자!! 
 
 ## 목차:
 1. Getting & Knowing your data
