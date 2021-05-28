@@ -3,6 +3,7 @@
 Basic_Pandas : including almost everything about Pandas organized by Sewon
 
 출처 : 책: [파이썬 머신러닝 판다스 데이터 분석](http://www.yes24.com/Product/Goods/74258258)
+인터넷 출처: 내용 안에 정리 되어 있어요~
 
 
 # Pandas_Practice
