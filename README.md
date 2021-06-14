@@ -20,9 +20,10 @@
 
 ## 출처
 > * [L_Series_Pandas_이수안컴퓨터연구소](https://www.youtube.com/watch?v=lG8pEwvYwCw&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=2)
->
+> * [L_Series_Numpy](https://www.youtube.com/watch?v=mirZPrWwvao&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=1)
 > * A_Sereise_Basic_Pandas : including almost everything about Pandas organized by Sewon  
 출처 : 책: [파이썬 머신러닝 판다스 데이터 분석](http://www.yes24.com/Product/Goods/74258258)  
+> * 파이썬 머신러닝 완벽가이드 (권철민)
      인터넷 : 내용 안에 정리 되어 있어요~  
  
 
