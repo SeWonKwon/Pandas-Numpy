@@ -1,5 +1,15 @@
-# Pandas
+# Basic is not easy but important.
+
+## Pandas
 * A00_Basic_Pandas : 판다스 기본 내용 및 실전 활용 정리
+* 
+## Numpy
+* 
+# Numpy_L
+*
+*
+# Pandas_L
+
 * L00_Pands : 강의 전체 내용(L01 ~ L06 으로 분할)
 * L01_Pands_basics : 시리즈, 데이터 프레임, 인덱스, 테이블 연산과 결합
 * L02_데이터 집계와 그룹 연산
@@ -10,6 +20,7 @@
 
 ## 출처
 > * [L_Series_Pandas_이수안컴퓨터연구소](https://www.youtube.com/watch?v=lG8pEwvYwCw&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=2)
+>
 > * A_Sereise_Basic_Pandas : including almost everything about Pandas organized by Sewon  
 출처 : 책: [파이썬 머신러닝 판다스 데이터 분석](http://www.yes24.com/Product/Goods/74258258)  
      인터넷 : 내용 안에 정리 되어 있어요~  
