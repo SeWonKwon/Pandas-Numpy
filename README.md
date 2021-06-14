@@ -2,12 +2,14 @@
 
 ## Pandas
 * A00_Basic_Pandas : 판다스 기본 내용 및 실전 활용 정리
-* 
+* A01_Pandas_setting : how to set display and so on
+* A02_Pandas_Series : about Series object
+* A03_Pandas_
 ## Numpy
-* 
+* N00_Numpy :
 # Numpy_L
-*
-*
+* L00_Numpy : 강의 전체 내용(분할 예정)
+* 
 # Pandas_L
 
 * L00_Pands : 강의 전체 내용(L01 ~ L06 으로 분할)
