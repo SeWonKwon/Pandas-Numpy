@@ -4,12 +4,17 @@
 * A00_Basic_Pandas : 판다스 기본 내용 및 실전 활용 정리
 * A01_Pandas_setting : how to set display and so on
 * A02_Pandas_Series : about Series object
-* A03_Pandas_
+* A03_Pandas_DataFrame : DataFrame create 
+* A04_Pandas read & save :
+* A05_Pandas index & column : index & column 
+* A06_Pandas
+
 ## Numpy
 * N00_Numpy :
+* N01_Numpy : 
 # Numpy_L
-* L00_Numpy : 강의 전체 내용(분할 예정)
-* 
+* L00_Numpy : 강의 전체 내용
+* L0
 # Pandas_L
 
 * L00_Pands : 강의 전체 내용(L01 ~ L06 으로 분할)
@@ -20,13 +25,17 @@
 * L05_데이터 읽기 및 저장
 * L06_데이터 정제
 
-## 출처
-> * [L_Series_Pandas_이수안컴퓨터연구소](https://www.youtube.com/watch?v=lG8pEwvYwCw&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=2)
-> * [L_Series_Numpy](https://www.youtube.com/watch?v=mirZPrWwvao&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=1)
-> * A_Sereise_Basic_Pandas : including almost everything about Pandas organized by Sewon  
-출처 : 책: [파이썬 머신러닝 판다스 데이터 분석](http://www.yes24.com/Product/Goods/74258258)  
-> * 파이썬 머신러닝 완벽가이드 (권철민)
-     인터넷 : 내용 안에 정리 되어 있어요~  
+
+# 출처
+> * [이수안컴퓨터연구소](https://www.youtube.com/watch?v=lG8pEwvYwCw&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=2)
+> * [L_Series_Numpy](https://www.youtube.com/watch?v=mirZPrWwvao&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=1) 
+> * NumPy, https://numpy.org/
+## 책
+> * Jake VaderPlas, "Python Data Science Handbook", O'Reilly
+> * Wes Mckinney, "Python for Data Analysis", O'Reilly
+> * [파이썬 머신러닝 판다스 데이터 분석](http://www.yes24.com/Product/Goods/74258258)  
+> * [파이썬 머신러닝 완벽가이드](https://book.naver.com/bookdb/book_detail.nhn?bid=16238302)
+ 
  
 
 # Pandas_Practice
