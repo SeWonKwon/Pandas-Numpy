@@ -42,7 +42,8 @@
 # 출처
 > * [이수안컴퓨터연구소](https://www.youtube.com/watch?v=lG8pEwvYwCw&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=2)
 > * [L_Series_Numpy](https://www.youtube.com/watch?v=mirZPrWwvao&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=1) 
-> * NumPy, https://numpy.org/
+> * [TeamLab](https://www.youtube.com/watch?v=aHthqCgsSFs&list=PLBHVuYlKEkULZLnKLzRq1CnNBOBlBTkqp&index=1)
+
 ## 책
 > * Jake VaderPlas, "Python Data Science Handbook", O'Reilly
 > * Wes Mckinney, "Python for Data Analysis", O'Reilly
