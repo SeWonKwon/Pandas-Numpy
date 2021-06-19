@@ -10,21 +10,24 @@
 * A06_Pandas
 
 ## Numpy
-* N00_Numpy  :
-* N01_Numpy Feature :
-* N02_Numpy ndarray :
-* N03_Numpy indexing & slicing :
-* N04_Numpy array_insert delete copy transe :
-* N05_Numpy Bradcasting & Arithmetic Operators :
-* N06_Numpy Aggregate Functions :
-* N07_Numpy Comparison Operators :
-* N08_Numpy sort & argsort & partition :
-* N06_Numpy save & load numpy :
+* B00_Numpy  :
+* 
 
 
 # Numpy_L
+
 * L00_Numpy : 강의 전체 내용
-* L0
+* L01_Numpy Feature 
+* L02_Numpy ndarray 
+* L03_Numpy info &indexing & slicing 
+* L04_Numpy array_insert delete copy transe 
+* L05_Numpy Broadcasting & Arithmetic Operators 
+* L06_Numpy Aggregate Functions 
+* L07_Numpy Comparison Operators 
+* L08_Numpy sort & argsort & partition 
+* L09_Numpy load & save array 
+
+
 # Pandas_L
 
 * L00_Pands : 강의 전체 내용(L01 ~ L06 으로 분할)
