@@ -37,12 +37,15 @@
 * L04_시계열 처리
 * L05_데이터 읽기 및 저장
 * L06_데이터 정제
+* L07_Pandas 명령어 tips
+* L08_Pandas Cheatsheet
 
 
 # 출처
 > * [이수안컴퓨터연구소](https://www.youtube.com/watch?v=lG8pEwvYwCw&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=2)
 > * [L_Series_Numpy](https://www.youtube.com/watch?v=mirZPrWwvao&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=1) 
 > * [TeamLab](https://www.youtube.com/watch?v=aHthqCgsSFs&list=PLBHVuYlKEkULZLnKLzRq1CnNBOBlBTkqp&index=1)
+> * [Minseok Heo](https://github.com/minsuk-heo/pandas)
 
 ## 책
 > * Jake VaderPlas, "Python Data Science Handbook", O'Reilly
