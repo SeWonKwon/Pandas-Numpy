@@ -7,7 +7,15 @@
 * A03_Pandas_DataFrame : DataFrame create 
 * A04_Pandas read & save :
 * A05_Pandas index & column : index & column 
-* A06_Pandas
+* A06_Pandas_Indexing
+* A07_Pandas_ 데이터 연산
+* A08_Pandas Filter & search 
+* A09_Pandas Apply, Add, Alter & Drop
+* A10_Pandas Concat, Append, Merge, Join
+* A11_Pandas 문자열 처리하기
+* A12_Pandas Data processing, Dtype, NaN, outlier, Unique
+* A13_Pandas Groupby, Aggregation, Pivot, Category
+* A14_Pandas Time Series
 
 ## Numpy
 * B00_Numpy  :
