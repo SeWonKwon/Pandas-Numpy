@@ -42,7 +42,7 @@
 
 
 # 출처
-> * [이수안컴퓨터연구소](https://www.youtube.com/watch?v=lG8pEwvYwCw&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=2)
+> * [이수안컴퓨터연구소, Pandas_00~L06](https://www.youtube.com/watch?v=lG8pEwvYwCw&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=2)
 > * [L_Series_Numpy](https://www.youtube.com/watch?v=mirZPrWwvao&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=1) 
 > * [TeamLab](https://www.youtube.com/watch?v=aHthqCgsSFs&list=PLBHVuYlKEkULZLnKLzRq1CnNBOBlBTkqp&index=1)
 > * [Minseok Heo](https://github.com/minsuk-heo/pandas)
