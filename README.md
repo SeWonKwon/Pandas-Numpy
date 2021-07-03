@@ -9,6 +9,8 @@ Python 생태계에서 살아가는 데이터 분석가에게 <br>
 
 * **단지 코드를 사용함에 그치지 않고, 활용 할수 있어야지만 의미가 있다.**
 
+# 내용정리
+
 ## Pandas
 * A00_Basic_Pandas : 판다스 기본 내용 및 실전 활용 정리
 * A01_Pandas_setting : how to set display and so on
@@ -39,8 +41,9 @@ Python 생태계에서 살아가는 데이터 분석가에게 <br>
 
 
 
-# Pandas_L
 
+# 강의 정리
+# Pandas_L
 * L00_Pands : 강의 전체 내용(L01 ~ L06 으로 분할)
 * L01_Pands_basics : 시리즈, 데이터 프레임, 인덱스, 테이블 연산과 결합
 * L02_데이터 집계와 그룹 연산
@@ -51,10 +54,7 @@ Python 생태계에서 살아가는 데이터 분석가에게 <br>
 * L07_Pandas 명령어 tips
 * L08_Pandas Cheatsheet
 
-
-
 # Numpy_L
-
 * L00_Numpy : 강의 전체 내용
 * L01_Numpy Feature 
 * L02_Numpy ndarray 
