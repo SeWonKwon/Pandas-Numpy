@@ -18,8 +18,30 @@
 * A14_Pandas Time Series
 
 ## Numpy
-* B00_Numpy  :
-* 
+* B01_Numpy Feature
+* B02_Numpy ndarray
+* B03_Numpy info &indexing & slicing
+* B04_Numpy array_insert delete copy transe
+* B05_Numpy Broadcasting & Arithmetic Operators
+* B06_Numpy Aggregate Functions
+* B07_Numpy Comparison Operators
+* B08_Numpy sort & argsort & partition
+* B09_Numpy load & save array
+
+
+
+# Pandas_L
+
+* L00_Pands : 강의 전체 내용(L01 ~ L06 으로 분할)
+* L01_Pands_basics : 시리즈, 데이터 프레임, 인덱스, 테이블 연산과 결합
+* L02_데이터 집계와 그룹 연산
+* L03_문자열 연산
+* L04_시계열 처리
+* L05_데이터 읽기 및 저장
+* L06_데이터 정제
+* L07_Pandas 명령어 tips
+* L08_Pandas Cheatsheet
+
 
 
 # Numpy_L
@@ -36,19 +58,6 @@
 * L09_Numpy load & save array 
 
 
-# Pandas_L
-
-* L00_Pands : 강의 전체 내용(L01 ~ L06 으로 분할)
-* L01_Pands_basics : 시리즈, 데이터 프레임, 인덱스, 테이블 연산과 결합
-* L02_데이터 집계와 그룹 연산
-* L03_문자열 연산
-* L04_시계열 처리
-* L05_데이터 읽기 및 저장
-* L06_데이터 정제
-* L07_Pandas 명령어 tips
-* L08_Pandas Cheatsheet
-
-
 # 출처
 > * [이수안컴퓨터연구소, Pandas_00~L06](https://www.youtube.com/watch?v=lG8pEwvYwCw&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=2)
 > * [L_Series_Numpy](https://www.youtube.com/watch?v=mirZPrWwvao&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=1) 
@@ -60,7 +69,6 @@
 > * Wes Mckinney, "Python for Data Analysis", O'Reilly
 > * [파이썬 머신러닝 판다스 데이터 분석](http://www.yes24.com/Product/Goods/74258258)  
 > * [파이썬 머신러닝 완벽가이드](https://book.naver.com/bookdb/book_detail.nhn?bid=16238302)
- 
  
 
 # Pandas_Practice
