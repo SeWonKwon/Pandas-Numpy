@@ -1,5 +1,14 @@
 # Basic is not easy but important.
 
+Python 생태계에서 살아가는 데이터 분석가에게 <br>
+가장 기본적으로 코드에 대한 이해도를 높이는 3가지 스킬
+
+1. [Python](https://github.com/SeWonKwon/Python_from_scratch)
+2. Pandas
+3. Numpy
+
+* **단지 코드를 사용함에 그치지 않고, 활용 할수 있어야지만 의미가 있다.**
+
 ## Pandas
 * A00_Basic_Pandas : 판다스 기본 내용 및 실전 활용 정리
 * A01_Pandas_setting : how to set display and so on
