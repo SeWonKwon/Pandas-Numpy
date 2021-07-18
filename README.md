@@ -9,6 +9,21 @@ Python 생태계에서 살아가는 데이터 분석가에게 <br>
 
 * **단지 코드를 사용함에 그치지 않고, 활용 할수 있어야지만 의미가 있다.**
 
+
+# Pandas_Numpy Daily Practice
+
+매일 매일 Practice
+
+`Pandas` 와 `Numpy` 를 활용해 볼수 있는 연습문제
+
+Question 과 Soulution 으로 구성되어 있습니다.
+
+매일 10~20문제를 풀수 있게 구성했습니다. 
+
+
+출처: https://www.w3resource.com/
+
+
 # 내용정리
 
 ## Pandas
