@@ -53,6 +53,7 @@ Question 과 Soulution 으로 구성되어 있습니다.
 * B07_Numpy Comparison Operators
 * B08_Numpy sort & argsort & partition
 * B09_Numpy load & save array
+* B10_Numpy Set function
 
 
 
@@ -80,6 +81,7 @@ Question 과 Soulution 으로 구성되어 있습니다.
 * L07_Numpy Comparison Operators 
 * L08_Numpy sort & argsort & partition 
 * L09_Numpy load & save array 
+
 
 
 # 출처
