@@ -42,6 +42,8 @@ Question 과 Soulution 으로 구성되어 있습니다.
 * A12_Pandas Data processing, NaN, outlier, Unique
 * A13_Pandas Groupby, Aggregation, Pivot, Category
 * A14_Pandas Time Series
+* A15_Pandas Apply Drill!!
+* A16_Pandas query
 
 ## Numpy
 * B01_Numpy Feature
