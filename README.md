@@ -101,7 +101,9 @@ Question 과 Soulution 으로 구성되어 있습니다.
 
 # Pandas_Practice
 
-꾸준히 하나씩 풀자!! 
+꾸준히 하나씩 풀자!! 완료
+
+
 
 ## 목차:
 1. Getting & Knowing your data
